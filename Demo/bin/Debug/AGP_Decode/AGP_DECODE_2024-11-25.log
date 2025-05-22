@@ -1,0 +1,11 @@
+Time[2024-11-25 15:34:29,090]  Level[INFO] total messages to be decoded:1
+Time[2024-11-25 15:34:29,171]  Level[DEBUG] Payload header:1@|@20230902@|@129553817@|@0@|@0@|@
+Time[2024-11-25 15:34:29,246]  Level[DEBUG] system id:1; activity id:129553817
+Time[2024-11-25 15:35:37,549]  Level[DEBUG] Start decoding message:system id:1; activity id:129553817
+Time[2024-11-25 15:37:44,012]  Level[INFO] total messages to be decoded:1
+Time[2024-11-25 15:37:44,018]  Level[DEBUG] Payload header:1@|@20230902@|@129553802@|@0@|@0@|@
+Time[2024-11-25 15:37:44,100]  Level[DEBUG] system id:1; activity id:129553802
+Time[2024-11-25 15:38:37,260]  Level[DEBUG] Start decoding message:system id:1; activity id:129553802
+Time[2024-11-25 15:40:24,583]  Level[INFO] total messages to be decoded:1
+Time[2024-11-25 15:40:24,627]  Level[DEBUG] Payload header:1@|@20230902@|@129553817@|@0@|@0@|@
+Time[2024-11-25 15:40:24,678]  Level[DEBUG] system id:1; activity id:129553817

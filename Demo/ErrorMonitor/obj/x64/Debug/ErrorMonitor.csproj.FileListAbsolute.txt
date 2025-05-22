@@ -1,0 +1,8 @@
+D:\Developments\EDABI\DecodeModule\Demo\ErrorMonitor\bin\x64\Debug\ErrorMonitor.exe.config
+D:\Developments\EDABI\DecodeModule\Demo\ErrorMonitor\bin\x64\Debug\ErrorMonitor.exe
+D:\Developments\EDABI\DecodeModule\Demo\ErrorMonitor\bin\x64\Debug\ErrorMonitor.pdb
+D:\Developments\EDABI\DecodeModule\Demo\ErrorMonitor\obj\x64\Debug\ErrorMonitor.Form1.resources
+D:\Developments\EDABI\DecodeModule\Demo\ErrorMonitor\obj\x64\Debug\ErrorMonitor.Properties.Resources.resources
+D:\Developments\EDABI\DecodeModule\Demo\ErrorMonitor\obj\x64\Debug\ErrorMonitor.csproj.GenerateResource.Cache
+D:\Developments\EDABI\DecodeModule\Demo\ErrorMonitor\obj\x64\Debug\ErrorMonitor.exe
+D:\Developments\EDABI\DecodeModule\Demo\ErrorMonitor\obj\x64\Debug\ErrorMonitor.pdb

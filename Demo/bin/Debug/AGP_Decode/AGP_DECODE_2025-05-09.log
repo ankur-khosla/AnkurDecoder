@@ -1,0 +1,83 @@
+Time[2025-05-09 08:49:58,405]  Level[INFO] total messages to be decoded:1
+Time[2025-05-09 08:50:00,072]  Level[DEBUG] Payload header:20@|@20151004@|@3008164501@|@0@|@0@|@
+Time[2025-05-09 08:50:00,072]  Level[DEBUG] system id:20; activity id:3008164501
+Time[2025-05-09 08:51:16,501]  Level[DEBUG] Start decoding message:system id:20; activity id:3008164501
+Time[2025-05-09 08:52:11,604]  Level[DEBUG] ESC Transaction, but not Payout/Cancel: skip it:system id:20; activity id:3008164501; activity code:6
+Time[2025-05-09 08:53:39,865]  Level[DEBUG] Finished decoding message:system id:20; activity id:3008164501
+Time[2025-05-09 08:53:43,169]  Level[DEBUG] Message Info:system id:20; activity id:3008164501; activity code:6
+Time[2025-05-09 08:53:44,033]  Level[DEBUG] Copy result message:20@|@20151004@|@3008164501@|@0@|@0@|@5@|@6@|@
+Time[2025-05-09 08:53:47,125]  Level[DEBUG] Total simple selections:0
+Time[2025-05-09 08:56:01,458]  Level[INFO] Total result messages:1(including 0 simple selections)
+Time[2025-05-09 09:01:22,893]  Level[INFO] total messages to be decoded:1
+Time[2025-05-09 09:01:23,600]  Level[DEBUG] Payload header:20@|@20151004@|@3008164501@|@0@|@0@|@
+Time[2025-05-09 09:01:23,600]  Level[DEBUG] system id:20; activity id:3008164501
+Time[2025-05-09 09:01:27,842]  Level[DEBUG] Start decoding message:system id:20; activity id:3008164501
+Time[2025-05-09 09:01:27,842]  Level[DEBUG] ESC Transaction, but not Payout/Cancel: skip it:system id:20; activity id:3008164501; activity code:6
+Time[2025-05-09 09:01:27,842]  Level[DEBUG] Finished decoding message:system id:20; activity id:3008164501
+Time[2025-05-09 09:01:27,842]  Level[DEBUG] Message Info:system id:20; activity id:3008164501; activity code:6
+Time[2025-05-09 09:01:27,842]  Level[DEBUG] Copy result message:20@|@20151004@|@3008164501@|@0@|@0@|@5@|@6@|@
+Time[2025-05-09 09:01:27,843]  Level[DEBUG] Total simple selections:0
+Time[2025-05-09 09:01:27,849]  Level[INFO] Total result messages:1(including 0 simple selections)
+Time[2025-05-09 09:03:51,133]  Level[INFO] total messages to be decoded:1
+Time[2025-05-09 09:03:51,796]  Level[DEBUG] Payload header:20@|@20151004@|@3008164501@|@0@|@0@|@
+Time[2025-05-09 09:03:51,796]  Level[DEBUG] system id:20; activity id:3008164501
+Time[2025-05-09 09:03:54,058]  Level[DEBUG] Start decoding message:system id:20; activity id:3008164501
+Time[2025-05-09 09:03:54,058]  Level[DEBUG] ESC Transaction, but not Payout/Cancel: skip it:system id:20; activity id:3008164501; activity code:6
+Time[2025-05-09 09:03:54,058]  Level[DEBUG] Finished decoding message:system id:20; activity id:3008164501
+Time[2025-05-09 09:03:54,059]  Level[DEBUG] Message Info:system id:20; activity id:3008164501; activity code:6
+Time[2025-05-09 09:03:54,059]  Level[DEBUG] Copy result message:20@|@20151004@|@3008164501@|@0@|@0@|@5@|@6@|@
+Time[2025-05-09 09:03:54,059]  Level[DEBUG] Total simple selections:0
+Time[2025-05-09 09:03:54,065]  Level[INFO] Total result messages:1(including 0 simple selections)
+Time[2025-05-09 09:03:57,814]  Level[INFO] total messages to be decoded:0
+Time[2025-05-09 09:03:57,818]  Level[INFO] Total result messages:0(including 0 simple selections)
+Time[2025-05-09 09:04:59,738]  Level[INFO] total messages to be decoded:1
+Time[2025-05-09 09:05:00,157]  Level[DEBUG] Payload header:17@|@20160911@|@3002467955@|@0@|@0@|@
+Time[2025-05-09 09:05:00,157]  Level[DEBUG] system id:17; activity id:3002467955
+Time[2025-05-09 09:05:03,712]  Level[DEBUG] Start decoding message:system id:17; activity id:3002467955
+Time[2025-05-09 09:05:07,135]  Level[DEBUG] Add result message--normal message in buffer
+Time[2025-05-09 09:05:07,135]  Level[DEBUG] Finished decoding message:system id:17; activity id:3002467955
+Time[2025-05-09 09:05:07,135]  Level[DEBUG] Message Info:system id:17; activity id:3002467955; activity code:8
+Time[2025-05-09 09:05:07,135]  Level[DEBUG] Copy result message:17@|@20160911@|@3002467955@|@0@|@0@|@0@|@8@|@17~|~AGP01~|~11-Sep-2016~|~0~|~0~|~225~|~8~|~11-Sep-2016 11:26:01~|~1434770~|~948233~|~6553606~|~100~|~0~|~882~|~24~|~0~|~1~|~3~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0000000~|~2611~|~16458~|~0~|~2~|~233~|~24~|~0~|~0~|~6~|~3000069710~|~0~|~6~|~17~|~2~|~0~|~2000-01-01~|~17~|~0~|~0~|~0~|~0~|~0~|~995~|~7~|~08-Sep-2016 12:43:05~|~15~|~CV~|~0~|~6708350~|~0~|~0~|~0~|~0~|~0~|~882~|~11-Sep-2016 11:26:01~|~19~|~0~|~0~|~0~|~0~|~1~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0
+Time[2025-05-09 09:05:07,135]  Level[DEBUG] Total simple selections:0
+Time[2025-05-09 09:05:07,141]  Level[INFO] Total result messages:1(including 0 simple selections)
+Time[2025-05-09 09:05:17,756]  Level[INFO] total messages to be decoded:0
+Time[2025-05-09 09:05:17,760]  Level[INFO] Total result messages:0(including 0 simple selections)
+Time[2025-05-09 09:07:03,715]  Level[INFO] total messages to be decoded:1
+Time[2025-05-09 09:07:04,022]  Level[DEBUG] Payload header:20@|@20150326@|@13261969@|@4608@|@0@|@
+Time[2025-05-09 09:07:04,022]  Level[DEBUG] system id:20; activity id:13261969
+Time[2025-05-09 09:09:36,291]  Level[INFO] total messages to be decoded:1
+Time[2025-05-09 09:09:36,648]  Level[DEBUG] Payload header:20@|@20230921@|@14891824@|@0@|@0@|@
+Time[2025-05-09 09:09:36,648]  Level[DEBUG] system id:20; activity id:14891824
+Time[2025-05-09 09:09:38,734]  Level[DEBUG] Prelog message: skip it:system id:20; activity id:14891824
+Time[2025-05-09 09:09:38,734]  Level[DEBUG] Message Info:system id:20; activity id:14891824; activity code:6
+Time[2025-05-09 09:09:38,734]  Level[DEBUG] Copy result message:20@|@20230921@|@14891824@|@0@|@0@|@2@|@6@|@
+Time[2025-05-09 09:09:38,734]  Level[DEBUG] Total simple selections:0
+Time[2025-05-09 09:09:38,739]  Level[INFO] Total result messages:1(including 0 simple selections)
+Time[2025-05-09 09:09:41,786]  Level[INFO] total messages to be decoded:0
+Time[2025-05-09 09:09:41,792]  Level[INFO] Total result messages:0(including 0 simple selections)
+Time[2025-05-09 09:12:12,445]  Level[INFO] total messages to be decoded:1
+Time[2025-05-09 09:12:12,680]  Level[DEBUG] Payload header:20@|@20161126@|@3010516779@|@0@|@0@|@
+Time[2025-05-09 09:12:12,680]  Level[DEBUG] system id:20; activity id:3010516779
+Time[2025-05-09 09:12:15,023]  Level[DEBUG] Start decoding message:system id:20; activity id:3010516779
+Time[2025-05-09 09:12:31,707]  Level[ERROR] Exception occurred:system id:20; activity id:3010516779
+Time[2025-05-09 09:12:31,707]  Level[DEBUG] 1 messages were not decoded due to exception.
+Time[2025-05-09 09:12:31,714]  Level[INFO] Total result messages:1(including 0 simple selections)
+Time[2025-05-09 09:12:33,603]  Level[INFO] total messages to be decoded:0
+Time[2025-05-09 09:12:33,608]  Level[INFO] Total result messages:0(including 0 simple selections)
+Time[2025-05-09 09:13:02,174]  Level[INFO] total messages to be decoded:1
+Time[2025-05-09 09:13:02,533]  Level[DEBUG] Payload header:20@|@20161126@|@3010516779@|@0@|@0@|@
+Time[2025-05-09 09:13:02,533]  Level[DEBUG] system id:20; activity id:3010516779
+Time[2025-05-09 09:13:03,346]  Level[DEBUG] Start decoding message:system id:20; activity id:3010516779
+Time[2025-05-09 09:13:07,843]  Level[ERROR] Exception occurred:system id:20; activity id:3010516779
+Time[2025-05-09 09:13:07,843]  Level[DEBUG] 1 messages were not decoded due to exception.
+Time[2025-05-09 09:13:07,848]  Level[INFO] Total result messages:1(including 0 simple selections)
+Time[2025-05-09 09:13:11,480]  Level[INFO] total messages to be decoded:0
+Time[2025-05-09 09:13:11,485]  Level[INFO] Total result messages:0(including 0 simple selections)
+Time[2025-05-09 09:17:03,059]  Level[INFO] total messages to be decoded:0
+Time[2025-05-09 09:17:03,064]  Level[INFO] Total result messages:0(including 0 simple selections)
+Time[2025-05-09 09:30:11,469]  Level[INFO] total messages to be decoded:0
+Time[2025-05-09 09:30:11,475]  Level[INFO] Total result messages:0(including 0 simple selections)
+Time[2025-05-09 14:02:21,796]  Level[INFO] total messages to be decoded:0
+Time[2025-05-09 14:02:21,801]  Level[INFO] Total result messages:0(including 0 simple selections)
+Time[2025-05-09 14:27:15,930]  Level[INFO] total messages to be decoded:0
+Time[2025-05-09 14:27:15,935]  Level[INFO] Total result messages:0(including 0 simple selections)

@@ -1,0 +1,73 @@
+Time[2025-03-26 09:44:00,939]  Level[INFO] total messages to be decoded:1
+Time[2025-03-26 09:44:00,993]  Level[DEBUG] Payload header:20@|@0@|@8617893870@|@0@|@0@|@
+Time[2025-03-26 09:44:01,005]  Level[DEBUG] system id:20; activity id:8617893870
+Time[2025-03-26 09:45:13,036]  Level[DEBUG] Start decoding message:system id:20; activity id:8617893870
+Time[2025-03-26 09:46:41,575]  Level[DEBUG] Add result message--normal message in buffer
+Time[2025-03-26 09:46:43,382]  Level[DEBUG] Finished decoding message:system id:20; activity id:8617893870
+Time[2025-03-26 09:46:44,872]  Level[DEBUG] Message Info:system id:20; activity id:8617893870; activity code:30
+Time[2025-03-26 09:46:46,444]  Level[DEBUG] Copy result message:20@|@0@|@8617893870@|@0@|@0@|@0@|@50001@|@20~|~Unknown~|~25-Oct-2023~|~0~|~239~|~0~|~186~|~30~|~25-Oct-2023 13:50:35~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0000000~|~0000~|~2147483647~|~184549379~|~0~|~88~|~0~|~0~|~0~|~~|~0~|~0~|~0~|~0~|~99~|~0
+Time[2025-03-26 09:47:06,442]  Level[INFO] total messages to be decoded:1
+Time[2025-03-26 09:47:06,536]  Level[DEBUG] Payload header:20@|@0@|@8617893870@|@0@|@0@|@
+Time[2025-03-26 09:47:06,548]  Level[DEBUG] system id:20; activity id:8617893870
+Time[2025-03-26 09:47:17,723]  Level[DEBUG] Start decoding message:system id:20; activity id:8617893870
+Time[2025-03-26 09:47:22,797]  Level[DEBUG] Add result message--normal message in buffer
+Time[2025-03-26 09:47:22,797]  Level[DEBUG] Finished decoding message:system id:20; activity id:8617893870
+Time[2025-03-26 09:47:22,797]  Level[DEBUG] Message Info:system id:20; activity id:8617893870; activity code:30
+Time[2025-03-26 09:47:22,858]  Level[DEBUG] Copy result message:20@|@0@|@8617893870@|@0@|@0@|@0@|@50001@|@20~|~Unknown~|~25-Oct-2023~|~0~|~239~|~0~|~186~|~30~|~25-Oct-2023 13:50:35~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0000000~|~0000~|~2147483647~|~184549379~|~0~|~88~|~0~|~0~|~0~|~~|~0~|~0~|~0~|~0~|~99~|~0
+Time[2025-03-26 09:47:22,863]  Level[DEBUG] Total simple selections:0
+Time[2025-03-26 09:47:22,896]  Level[INFO] Total result messages:1(including 0 simple selections)
+Time[2025-03-26 09:49:44,154]  Level[INFO] total messages to be decoded:1
+Time[2025-03-26 09:49:44,232]  Level[DEBUG] Payload header:20@|@0@|@8617893931@|@0@|@0@|@
+Time[2025-03-26 09:49:44,234]  Level[DEBUG] system id:20; activity id:8617893931
+Time[2025-03-26 09:49:58,198]  Level[DEBUG] Start decoding message:system id:20; activity id:8617893931
+Time[2025-03-26 09:50:25,763]  Level[DEBUG] Add result message--normal message in buffer
+Time[2025-03-26 09:50:25,765]  Level[DEBUG] Finished decoding message:system id:20; activity id:8617893931
+Time[2025-03-26 09:50:25,770]  Level[DEBUG] Message Info:system id:20; activity id:8617893931; activity code:30
+Time[2025-03-26 09:50:25,771]  Level[DEBUG] Copy result message:20@|@0@|@8617893931@|@0@|@0@|@0@|@50001@|@20~|~Unknown~|~25-Oct-2023~|~0~|~239~|~0~|~186~|~30~|~25-Oct-2023 13:52:35~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0000000~|~0000~|~2147483647~|~184549379~|~0~|~88~|~0~|~0~|~0~|~~|~0~|~0~|~0~|~0~|~99~|~0
+Time[2025-03-26 09:50:25,779]  Level[DEBUG] Total simple selections:0
+Time[2025-03-26 09:50:25,786]  Level[INFO] Total result messages:1(including 0 simple selections)
+Time[2025-03-26 09:51:11,077]  Level[INFO] total messages to be decoded:1
+Time[2025-03-26 09:51:11,175]  Level[DEBUG] Payload header:20@|@0@|@8617893931@|@0@|@0@|@
+Time[2025-03-26 09:51:11,205]  Level[DEBUG] system id:20; activity id:8617893931
+Time[2025-03-26 09:51:19,016]  Level[DEBUG] Start decoding message:system id:20; activity id:8617893931
+Time[2025-03-26 09:52:29,196]  Level[INFO] total messages to be decoded:1
+Time[2025-03-26 09:52:29,227]  Level[DEBUG] Payload header:20@|@0@|@8617893931@|@0@|@0@|@
+Time[2025-03-26 09:52:29,253]  Level[DEBUG] system id:20; activity id:8617893931
+Time[2025-03-26 09:52:36,466]  Level[DEBUG] Start decoding message:system id:20; activity id:8617893931
+Time[2025-03-26 10:17:44,204]  Level[INFO] total messages to be decoded:1
+Time[2025-03-26 10:17:44,205]  Level[DEBUG] Payload header:17@|@20231025@|@4523438616@|@0@|@0@|@
+Time[2025-03-26 10:17:44,205]  Level[DEBUG] system id:17; activity id:4523438616
+Time[2025-03-26 10:17:48,852]  Level[DEBUG] Start decoding message:system id:17; activity id:4523438616
+Time[2025-03-26 10:18:03,917]  Level[INFO] total messages to be decoded:1
+Time[2025-03-26 10:18:03,918]  Level[DEBUG] Payload header:17@|@20231025@|@4523438616@|@0@|@0@|@
+Time[2025-03-26 10:18:03,918]  Level[DEBUG] system id:17; activity id:4523438616
+Time[2025-03-26 10:18:58,556]  Level[INFO] total messages to be decoded:1
+Time[2025-03-26 10:18:58,557]  Level[DEBUG] Payload header:17@|@20231025@|@4523438616@|@0@|@0@|@
+Time[2025-03-26 10:18:58,557]  Level[DEBUG] system id:17; activity id:4523438616
+Time[2025-03-26 10:20:20,608]  Level[DEBUG] Start decoding message:system id:17; activity id:4523438616
+Time[2025-03-26 10:21:21,647]  Level[DEBUG] Add result message--normal message in buffer
+Time[2025-03-26 10:21:21,648]  Level[DEBUG] Finished decoding message:system id:17; activity id:4523438616
+Time[2025-03-26 10:21:21,648]  Level[DEBUG] Message Info:system id:17; activity id:4523438616; activity code:7
+Time[2025-03-26 10:21:21,649]  Level[DEBUG] Copy result message:17@|@20231025@|@4523438616@|@0@|@0@|@0@|@50001@|@17~|~AGP01~|~25-Oct-2023~|~0~|~201~|~0~|~193~|~7~|~25-Oct-2023 17:12:44~|~0~|~0~|~0~|~0~|~0~|~997~|~11~|~0~|~0~|~0~|~0~|~1~|~0~|~0~|~0~|~1~|~0~|~0~|~0~|~0~|~0000000~|~16F5~|~16472~|~0~|~0~|~0~|~0~|~0~|~0~|~~|~0~|~0~|~0~|~0~|~99~|~0
+Time[2025-03-26 10:21:21,658]  Level[DEBUG] Total simple selections:0
+Time[2025-03-26 10:21:21,675]  Level[INFO] Total result messages:1(including 0 simple selections)
+Time[2025-03-26 10:35:02,305]  Level[INFO] total messages to be decoded:1
+Time[2025-03-26 10:35:02,306]  Level[DEBUG] Payload header:20@|@0@|@8617893973@|@0@|@0@|@
+Time[2025-03-26 10:35:02,306]  Level[DEBUG] system id:20; activity id:8617893973
+Time[2025-03-26 10:39:57,246]  Level[DEBUG] Start decoding message:system id:20; activity id:8617893973
+Time[2025-03-26 10:40:10,727]  Level[DEBUG] Add result message--normal message in buffer
+Time[2025-03-26 10:40:10,730]  Level[DEBUG] Finished decoding message:system id:20; activity id:8617893973
+Time[2025-03-26 10:40:10,731]  Level[DEBUG] Message Info:system id:20; activity id:8617893973; activity code:30
+Time[2025-03-26 10:40:10,733]  Level[DEBUG] Copy result message:20@|@0@|@8617893973@|@0@|@0@|@0@|@50001@|@20~|~Unknown~|~25-Oct-2023~|~0~|~239~|~0~|~186~|~30~|~25-Oct-2023 13:54:25~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0000000~|~0000~|~2147483647~|~184549379~|~0~|~88~|~0~|~0~|~0~|~~|~0~|~0~|~0~|~0~|~99~|~0
+Time[2025-03-26 10:40:10,741]  Level[DEBUG] Total simple selections:0
+Time[2025-03-26 10:40:10,763]  Level[INFO] Total result messages:1(including 0 simple selections)
+Time[2025-03-26 10:59:00,992]  Level[INFO] total messages to be decoded:1
+Time[2025-03-26 10:59:00,993]  Level[DEBUG] Payload header:17@|@20231025@|@4523438616@|@0@|@0@|@
+Time[2025-03-26 10:59:00,993]  Level[DEBUG] system id:17; activity id:4523438616
+Time[2025-03-26 10:59:16,805]  Level[DEBUG] Start decoding message:system id:17; activity id:4523438616
+Time[2025-03-26 10:59:41,071]  Level[INFO] total messages to be decoded:1
+Time[2025-03-26 10:59:41,072]  Level[DEBUG] Payload header:17@|@20231025@|@4523438616@|@0@|@0@|@
+Time[2025-03-26 10:59:41,072]  Level[DEBUG] system id:17; activity id:4523438616
+Time[2025-03-26 11:00:00,583]  Level[INFO] total messages to be decoded:1
+Time[2025-03-26 11:00:00,589]  Level[DEBUG] Payload header:17@|@20231025@|@4523438616@|@0@|@0@|@
+Time[2025-03-26 11:00:00,593]  Level[DEBUG] system id:17; activity id:4523438616

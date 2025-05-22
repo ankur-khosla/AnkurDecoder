@@ -1,0 +1,98 @@
+Time[2024-10-18 10:13:06,733]  Level[INFO] total messages to be decoded:1
+Time[2024-10-18 10:13:06,739]  Level[DEBUG] Payload header:18@|@20241009@|@1580454754@|@0@|@0@|@
+Time[2024-10-18 10:13:06,757]  Level[DEBUG] system id:18; activity id:1580454754
+Time[2024-10-18 10:13:06,763]  Level[DEBUG] Start decoding message:system id:18; activity id:1580454754
+Time[2024-10-18 10:13:06,775]  Level[DEBUG] Add result message--normal message in buffer
+Time[2024-10-18 10:13:06,776]  Level[DEBUG] Finished decoding message:system id:18; activity id:1580454754
+Time[2024-10-18 10:13:06,778]  Level[DEBUG] Message Info:system id:18; activity id:1580454754; activity code:8
+Time[2024-10-18 10:13:06,788]  Level[DEBUG] Copy result message:18@|@20241009@|@1580454754@|@0@|@0@|@0@|@8@|@18~|~AGP02~|~09-Oct-2024~|~0~|~0~|~225~|~8~|~09-Oct-2024 21:42:22~|~1601917318~|~542288~|~4~|~0~|~0~|~805~|~27~|~0~|~0~|~3~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0000000~|~30E8~|~22877~|~0~|~141~|~180~|~27~|~0~|~0~|~6~|~95578130~|~0~|~6~|~18~|~2~|~0~|~2000-01-01~|~18~|~0~|~0~|~0~|~0~|~0~|~805~|~26~|~09-Oct-2024 21:41:17~|~15~|~CV~|~0~|~20150~|~0~|~0~|~0~|~0~|~0~|~0~|~23-Aug-1970 17:06:47~|~99~|~0~|~0~|~0~|~1~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0
+Time[2024-10-18 10:13:06,789]  Level[DEBUG] Total simple selections:0
+Time[2024-10-18 10:13:06,810]  Level[INFO] Total result messages:1(including 0 simple selections)
+Time[2024-10-18 10:13:18,695]  Level[INFO] total messages to be decoded:1
+Time[2024-10-18 10:13:18,711]  Level[DEBUG] Payload header:18@|@20241009@|@1580454754@|@0@|@0@|@
+Time[2024-10-18 10:13:18,718]  Level[DEBUG] system id:18; activity id:1580454754
+Time[2024-10-18 10:13:18,730]  Level[DEBUG] Start decoding message:system id:18; activity id:1580454754
+Time[2024-10-18 10:13:18,750]  Level[DEBUG] Add result message--normal message in buffer
+Time[2024-10-18 10:13:18,792]  Level[DEBUG] Finished decoding message:system id:18; activity id:1580454754
+Time[2024-10-18 10:13:18,797]  Level[DEBUG] Message Info:system id:18; activity id:1580454754; activity code:8
+Time[2024-10-18 10:13:18,805]  Level[DEBUG] Copy result message:18@|@20241009@|@1580454754@|@0@|@0@|@0@|@8@|@18~|~AGP02~|~09-Oct-2024~|~0~|~0~|~225~|~8~|~09-Oct-2024 21:42:22~|~1601917318~|~542288~|~4~|~0~|~0~|~805~|~27~|~0~|~0~|~3~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0000000~|~30E8~|~22877~|~0~|~141~|~180~|~27~|~0~|~0~|~6~|~95578130~|~0~|~6~|~18~|~2~|~0~|~2000-01-01~|~18~|~0~|~0~|~0~|~0~|~0~|~805~|~26~|~09-Oct-2024 21:41:17~|~15~|~CV~|~0~|~20150~|~0~|~0~|~0~|~0~|~0~|~0~|~23-Aug-1970 17:06:47~|~99~|~0~|~0~|~0~|~1~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0
+Time[2024-10-18 10:13:18,827]  Level[DEBUG] Total simple selections:0
+Time[2024-10-18 10:13:18,858]  Level[INFO] Total result messages:1(including 0 simple selections)
+Time[2024-10-18 10:14:07,229]  Level[INFO] total messages to be decoded:1
+Time[2024-10-18 10:14:07,237]  Level[DEBUG] Payload header:18@|@20241009@|@1580454754@|@0@|@0@|@
+Time[2024-10-18 10:14:07,278]  Level[DEBUG] system id:18; activity id:1580454754
+Time[2024-10-18 10:14:07,280]  Level[DEBUG] Start decoding message:system id:18; activity id:1580454754
+Time[2024-10-18 10:14:07,282]  Level[DEBUG] Add result message--normal message in buffer
+Time[2024-10-18 10:14:07,282]  Level[DEBUG] Finished decoding message:system id:18; activity id:1580454754
+Time[2024-10-18 10:14:07,283]  Level[DEBUG] Message Info:system id:18; activity id:1580454754; activity code:8
+Time[2024-10-18 10:14:07,295]  Level[DEBUG] Copy result message:18@|@20241009@|@1580454754@|@0@|@0@|@0@|@8@|@18~|~AGP02~|~09-Oct-2024~|~0~|~0~|~225~|~8~|~09-Oct-2024 21:42:22~|~1601917318~|~542288~|~4~|~0~|~0~|~805~|~27~|~0~|~0~|~3~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0000000~|~30E8~|~22877~|~0~|~141~|~180~|~27~|~0~|~0~|~6~|~95578130~|~0~|~6~|~18~|~2~|~0~|~2000-01-01~|~18~|~0~|~0~|~0~|~0~|~0~|~805~|~26~|~09-Oct-2024 21:41:17~|~15~|~CV~|~0~|~20150~|~0~|~0~|~0~|~0~|~0~|~0~|~23-Aug-1970 17:06:47~|~99~|~0~|~0~|~0~|~1~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0
+Time[2024-10-18 10:14:07,307]  Level[DEBUG] Total simple selections:0
+Time[2024-10-18 10:14:07,352]  Level[INFO] Total result messages:1(including 0 simple selections)
+Time[2024-10-18 10:14:31,087]  Level[INFO] total messages to be decoded:1
+Time[2024-10-18 10:14:31,095]  Level[DEBUG] Payload header:18@|@20241009@|@1580454754@|@0@|@0@|@
+Time[2024-10-18 10:14:31,127]  Level[DEBUG] system id:18; activity id:1580454754
+Time[2024-10-18 10:14:31,140]  Level[DEBUG] Start decoding message:system id:18; activity id:1580454754
+Time[2024-10-18 10:14:31,156]  Level[DEBUG] Add result message--normal message in buffer
+Time[2024-10-18 10:14:31,175]  Level[DEBUG] Finished decoding message:system id:18; activity id:1580454754
+Time[2024-10-18 10:14:31,193]  Level[DEBUG] Message Info:system id:18; activity id:1580454754; activity code:8
+Time[2024-10-18 10:14:31,213]  Level[DEBUG] Copy result message:18@|@20241009@|@1580454754@|@0@|@0@|@0@|@8@|@18~|~AGP02~|~09-Oct-2024~|~0~|~0~|~225~|~8~|~09-Oct-2024 21:42:22~|~1601917318~|~542288~|~4~|~0~|~0~|~805~|~27~|~0~|~0~|~3~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0000000~|~30E8~|~22877~|~0~|~141~|~180~|~27~|~0~|~0~|~6~|~95578130~|~0~|~6~|~18~|~2~|~0~|~2000-01-01~|~18~|~0~|~0~|~0~|~0~|~0~|~805~|~26~|~09-Oct-2024 21:41:17~|~15~|~CV~|~0~|~20150~|~0~|~0~|~0~|~0~|~0~|~0~|~23-Aug-1970 17:06:47~|~99~|~0~|~0~|~0~|~1~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0
+Time[2024-10-18 10:14:31,233]  Level[DEBUG] Total simple selections:0
+Time[2024-10-18 10:14:31,280]  Level[INFO] Total result messages:1(including 0 simple selections)
+Time[2024-10-18 10:19:44,585]  Level[INFO] total messages to be decoded:1
+Time[2024-10-18 10:19:44,593]  Level[DEBUG] Payload header:18@|@20241009@|@1580454754@|@0@|@0@|@
+Time[2024-10-18 10:19:44,599]  Level[DEBUG] system id:18; activity id:1580454754
+Time[2024-10-18 10:19:44,603]  Level[DEBUG] Start decoding message:system id:18; activity id:1580454754
+Time[2024-10-18 10:19:44,616]  Level[DEBUG] Add result message--normal message in buffer
+Time[2024-10-18 10:19:44,617]  Level[DEBUG] Finished decoding message:system id:18; activity id:1580454754
+Time[2024-10-18 10:19:44,617]  Level[DEBUG] Message Info:system id:18; activity id:1580454754; activity code:8
+Time[2024-10-18 10:19:44,626]  Level[DEBUG] Copy result message:18@|@20241009@|@1580454754@|@0@|@0@|@0@|@8@|@18~|~AGP02~|~09-Oct-2024~|~0~|~0~|~225~|~8~|~09-Oct-2024 21:42:22~|~1601917318~|~542288~|~4~|~0~|~0~|~805~|~27~|~0~|~0~|~3~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0000000~|~30E8~|~22877~|~0~|~141~|~180~|~27~|~0~|~0~|~6~|~95578130~|~0~|~6~|~18~|~2~|~0~|~2000-01-01~|~18~|~0~|~0~|~0~|~0~|~0~|~805~|~26~|~09-Oct-2024 21:41:17~|~15~|~CV~|~0~|~20150~|~0~|~0~|~0~|~0~|~0~|~0~|~23-Aug-1970 17:06:47~|~99~|~0~|~0~|~0~|~1~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0
+Time[2024-10-18 10:19:44,630]  Level[DEBUG] Total simple selections:0
+Time[2024-10-18 10:19:44,644]  Level[INFO] Total result messages:1(including 0 simple selections)
+Time[2024-10-18 10:19:58,258]  Level[INFO] total messages to be decoded:1
+Time[2024-10-18 10:19:58,275]  Level[DEBUG] Payload header:18@|@20241009@|@1580454754@|@0@|@0@|@
+Time[2024-10-18 10:19:58,332]  Level[DEBUG] system id:18; activity id:1580454754
+Time[2024-10-18 10:19:58,335]  Level[DEBUG] Start decoding message:system id:18; activity id:1580454754
+Time[2024-10-18 10:19:58,365]  Level[DEBUG] Add result message--normal message in buffer
+Time[2024-10-18 10:19:58,381]  Level[DEBUG] Finished decoding message:system id:18; activity id:1580454754
+Time[2024-10-18 10:19:58,383]  Level[DEBUG] Message Info:system id:18; activity id:1580454754; activity code:8
+Time[2024-10-18 10:19:58,397]  Level[DEBUG] Copy result message:18@|@20241009@|@1580454754@|@0@|@0@|@0@|@8@|@18~|~AGP02~|~09-Oct-2024~|~0~|~0~|~225~|~8~|~09-Oct-2024 21:42:22~|~1601917318~|~542288~|~4~|~0~|~0~|~805~|~27~|~0~|~0~|~3~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0000000~|~30E8~|~22877~|~0~|~141~|~180~|~27~|~0~|~0~|~6~|~95578130~|~0~|~6~|~18~|~2~|~0~|~2000-01-01~|~18~|~0~|~0~|~0~|~0~|~0~|~805~|~26~|~09-Oct-2024 21:41:17~|~15~|~CV~|~0~|~20150~|~0~|~0~|~0~|~0~|~0~|~0~|~23-Aug-1970 17:06:47~|~99~|~0~|~0~|~0~|~1~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0
+Time[2024-10-18 10:19:58,403]  Level[DEBUG] Total simple selections:0
+Time[2024-10-18 10:19:58,446]  Level[INFO] Total result messages:1(including 0 simple selections)
+Time[2024-10-18 10:20:46,269]  Level[INFO] total messages to be decoded:1
+Time[2024-10-18 10:20:46,273]  Level[DEBUG] Payload header:18@|@20241009@|@1580454754@|@0@|@0@|@
+Time[2024-10-18 10:20:46,286]  Level[DEBUG] system id:18; activity id:1580454754
+Time[2024-10-18 10:20:46,287]  Level[DEBUG] Start decoding message:system id:18; activity id:1580454754
+Time[2024-10-18 10:20:46,300]  Level[DEBUG] Add result message--normal message in buffer
+Time[2024-10-18 10:20:46,301]  Level[DEBUG] Finished decoding message:system id:18; activity id:1580454754
+Time[2024-10-18 10:20:46,302]  Level[DEBUG] Message Info:system id:18; activity id:1580454754; activity code:8
+Time[2024-10-18 10:20:46,316]  Level[DEBUG] Copy result message:18@|@20241009@|@1580454754@|@0@|@0@|@0@|@8@|@18~|~AGP02~|~09-Oct-2024~|~0~|~0~|~225~|~8~|~09-Oct-2024 21:42:22~|~1601917318~|~542288~|~4~|~0~|~0~|~805~|~27~|~0~|~0~|~3~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0000000~|~30E8~|~22877~|~0~|~141~|~180~|~27~|~0~|~0~|~6~|~95578130~|~0~|~6~|~18~|~2~|~0~|~2000-01-01~|~18~|~0~|~0~|~0~|~0~|~0~|~805~|~26~|~09-Oct-2024 21:41:17~|~15~|~CV~|~0~|~20150~|~0~|~0~|~0~|~0~|~0~|~0~|~23-Aug-1970 17:06:47~|~99~|~0~|~0~|~0~|~1~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0
+Time[2024-10-18 10:20:46,328]  Level[DEBUG] Total simple selections:0
+Time[2024-10-18 10:20:46,365]  Level[INFO] Total result messages:1(including 0 simple selections)
+Time[2024-10-18 10:25:01,544]  Level[INFO] total messages to be decoded:1
+Time[2024-10-18 10:25:01,549]  Level[DEBUG] Payload header:18@|@20241009@|@1580454754@|@0@|@0@|@
+Time[2024-10-18 10:25:01,554]  Level[DEBUG] system id:18; activity id:1580454754
+Time[2024-10-18 10:25:01,558]  Level[DEBUG] Start decoding message:system id:18; activity id:1580454754
+Time[2024-10-18 10:25:01,578]  Level[DEBUG] Add result message--normal message in buffer
+Time[2024-10-18 10:25:01,596]  Level[DEBUG] Finished decoding message:system id:18; activity id:1580454754
+Time[2024-10-18 10:25:01,599]  Level[DEBUG] Message Info:system id:18; activity id:1580454754; activity code:8
+Time[2024-10-18 10:25:01,600]  Level[DEBUG] Copy result message:18@|@20241009@|@1580454754@|@0@|@0@|@0@|@8@|@18~|~AGP02~|~09-Oct-2024~|~0~|~0~|~225~|~8~|~09-Oct-2024 21:42:22~|~1601917318~|~542288~|~4~|~0~|~0~|~805~|~27~|~0~|~0~|~3~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0000000~|~30E8~|~22877~|~0~|~141~|~180~|~27~|~0~|~0~|~6~|~95578130~|~0~|~6~|~18~|~2~|~0~|~2000-01-01~|~18~|~0~|~0~|~0~|~0~|~0~|~805~|~26~|~09-Oct-2024 21:41:17~|~15~|~CV~|~0~|~20150~|~0~|~0~|~0~|~0~|~0~|~0~|~23-Aug-1970 17:06:47~|~99~|~0~|~0~|~0~|~1~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0
+Time[2024-10-18 10:25:01,602]  Level[DEBUG] Total simple selections:0
+Time[2024-10-18 10:25:01,614]  Level[INFO] Total result messages:1(including 0 simple selections)
+Time[2024-10-18 10:26:25,908]  Level[INFO] total messages to be decoded:1
+Time[2024-10-18 10:26:25,910]  Level[DEBUG] Payload header:18@|@20241009@|@1580454754@|@0@|@0@|@
+Time[2024-10-18 10:26:25,982]  Level[DEBUG] system id:18; activity id:1580454754
+Time[2024-10-18 10:35:50,449]  Level[DEBUG] Start decoding message:system id:18; activity id:1580454754
+Time[2024-10-18 10:39:36,468]  Level[DEBUG] Add result message--normal message in buffer
+Time[2024-10-18 10:39:36,477]  Level[DEBUG] Finished decoding message:system id:18; activity id:1580454754
+Time[2024-10-18 10:39:36,477]  Level[DEBUG] Message Info:system id:18; activity id:1580454754; activity code:8
+Time[2024-10-18 10:39:36,478]  Level[DEBUG] Copy result message:18@|@20241009@|@1580454754@|@0@|@0@|@0@|@8@|@18~|~AGP02~|~09-Oct-2024~|~0~|~0~|~225~|~8~|~09-Oct-2024 21:42:22~|~1601917318~|~542288~|~4~|~0~|~0~|~805~|~27~|~0~|~0~|~3~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0000000~|~30E8~|~22877~|~0~|~141~|~180~|~27~|~0~|~0~|~6~|~95578130~|~0~|~6~|~18~|~2~|~0~|~2000-01-01~|~18~|~0~|~0~|~0~|~0~|~0~|~805~|~26~|~09-Oct-2024 21:41:17~|~15~|~CV~|~0~|~20150~|~0~|~0~|~0~|~0~|~0~|~0~|~23-Aug-1970 17:06:47~|~99~|~0~|~0~|~0~|~1~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0~|~0
+Time[2024-10-18 10:39:36,481]  Level[DEBUG] Total simple selections:0
+Time[2024-10-18 10:39:36,505]  Level[INFO] Total result messages:1(including 0 simple selections)
+Time[2024-10-18 10:51:14,230]  Level[INFO] total messages to be decoded:1
+Time[2024-10-18 10:51:14,255]  Level[DEBUG] Payload header:18@|@20241009@|@1580454754@|@0@|@0@|@
+Time[2024-10-18 10:51:14,277]  Level[DEBUG] system id:18; activity id:1580454754
+Time[2024-10-18 11:20:36,791]  Level[DEBUG] Start decoding message:system id:18; activity id:1580454754
+Time[2024-10-18 11:24:56,586]  Level[INFO] total messages to be decoded:1
+Time[2024-10-18 11:24:56,593]  Level[DEBUG] Payload header:18@|@20241009@|@1580454754@|@0@|@0@|@
+Time[2024-10-18 11:24:56,601]  Level[DEBUG] system id:18; activity id:1580454754
+Time[2024-10-18 11:25:00,007]  Level[DEBUG] Start decoding message:system id:18; activity id:1580454754

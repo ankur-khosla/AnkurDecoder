@@ -1,0 +1,25 @@
+// BLogger.cpp: implementation of the CBLogger class.
+//
+//////////////////////////////////////////////////////////////////////
+
+#include "CBLogger.h"
+#include <memory.h>
+#include <time.h>
+#include <string.h>
+#include "LOGCOMDEF.H"
+
+/////////////////////////////////////////////////////////////////////
+// Construction/Destruction
+//////////////////////////////////////////////////////////////////////
+
+CBLogger::CBLogger()
+{
+	/*m_pMsg = NULL;
+	SetMsgSize(8192);*/
+}
+
+CBLogger::~CBLogger()
+{
+
+}
+

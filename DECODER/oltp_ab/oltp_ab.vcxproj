@@ -1,0 +1,336 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="aadef.h" />
+    <ClInclude Include="ABAcctAccess.h" />
+    <ClInclude Include="ABAcctClose.h" />
+    <ClInclude Include="ABAcctDetail.h" />
+    <ClInclude Include="ABAcctDetailNew.h" />
+    <ClInclude Include="ABAcctOpen.h" />
+    <ClInclude Include="ABAcctOpenNew.h" />
+    <ClInclude Include="ABAcctRelease.h" />
+    <ClInclude Include="ABBatchDep.h" />
+    <ClInclude Include="ABCallTransfer.h" />
+    <ClInclude Include="ABCancel.h" />
+    <ClInclude Include="ABCardReplace.h" />
+    <ClInclude Include="ABCitCancel.h" />
+    <ClInclude Include="ABCitIssue.h" />
+    <ClInclude Include="ABCitReplace.h" />
+    <ClInclude Include="ABCscBalance.h" />
+    <ClInclude Include="ABCscIssue.h" />
+    <ClInclude Include="ABCscReplace.h" />
+    <ClInclude Include="ABCscReturn.h" />
+    <ClInclude Include="ABDeposit.h" />
+    <ClInclude Include="ABDrCrAdjust.h" />
+    <ClInclude Include="ABEftAccAct.h" />
+    <ClInclude Include="ABEftAcctBal.h" />
+    <ClInclude Include="ABEftCvIssue.h" />
+    <ClInclude Include="ABEftErt.h" />
+    <ClInclude Include="ABEftMisc.h" />
+    <ClInclude Include="ABEodCanLotSI.h" />
+    <ClInclude Include="ABEodCrAdj.h" />
+    <ClInclude Include="ABEodDivFor.h" />
+    <ClInclude Include="ABEodDivGen.h" />
+    <ClInclude Include="ABEodLotDiv.h" />
+    <ClInclude Include="ABEodRaceDiv.h" />
+    <ClInclude Include="ABEodSBDiv.h" />
+    <ClInclude Include="ABIssueCard.h" />
+    <ClInclude Include="ABLogger.h" />
+    <ClInclude Include="ABLottery.h" />
+    <ClInclude Include="ABMeetingAbandon.h" />
+    <ClInclude Include="ABMsgDef.h" />
+    <ClInclude Include="ABMsgTranslator.h" />
+    <ClInclude Include="ABPolBg.h" />
+    <ClInclude Include="abpoldef.h" />
+    <ClInclude Include="ABPolDrCrAdj.h" />
+    <ClInclude Include="ABPolLotterySI.h" />
+    <ClInclude Include="ABPolLoyalty.h" />
+    <ClInclude Include="ABPolWtwSI.h" />
+    <ClInclude Include="ABPoolRefund.h" />
+    <ClInclude Include="ABPoolStartPay.h" />
+    <ClInclude Include="ABRace.h" />
+    <ClInclude Include="ABRaceClose.h" />
+    <ClInclude Include="ABRecall.h" />
+    <ClInclude Include="ABReturnCard.h" />
+    <ClInclude Include="ABRevCanDep.h" />
+    <ClInclude Include="ABRevDeposit.h" />
+    <ClInclude Include="ABSBBet.h" />
+    <ClInclude Include="ABSbcPoolDef.h" />
+    <ClInclude Include="ABSBSelBitmap.h" />
+    <ClInclude Include="ABSignOff.h" />
+    <ClInclude Include="ABSignOn.h" />
+    <ClInclude Include="ABSmsCharge.h" />
+    <ClInclude Include="ABStatCharge.h" />
+    <ClInclude Include="ABSystem.h" />
+    <ClInclude Include="ABSystemClose.h" />
+    <ClInclude Include="ABTerminateBet.h" />
+    <ClInclude Include="ABTextDB.h" />
+    <ClInclude Include="ABTxnEnquiry.h" />
+    <ClInclude Include="ABWithDraw.h" />
+    <ClInclude Include="acudef.h" />
+    <ClInclude Include="afmvar.h" />
+    <ClInclude Include="AllABMsg.h" />
+    <ClInclude Include="bcsdef.h" />
+    <ClInclude Include="BCSGENDEF.H" />
+    <ClInclude Include="BDGWCMSGDEF.H" />
+    <ClInclude Include="betdef - Copy.h" />
+    <ClInclude Include="betdef.h" />
+    <ClInclude Include="bettypdef.h" />
+    <ClInclude Include="bstypedef.h" />
+    <ClInclude Include="ckpdef.h" />
+    <ClInclude Include="commdef.h" />
+    <ClInclude Include="DeSelMap.h" />
+    <ClInclude Include="DllExport.h" />
+    <ClInclude Include="DREFDEF.H" />
+    <ClInclude Include="eodtrndef.h" />
+    <ClInclude Include="ExtractMgr.h" />
+    <ClInclude Include="fcbdef.h" />
+    <ClInclude Include="JCLogger.h" />
+    <ClInclude Include="JCSystem.h" />
+    <ClInclude Include="LOGATDEF.H" />
+    <ClInclude Include="LOGBTDEF.H" />
+    <ClInclude Include="LOGCOMDEF.H" />
+    <ClInclude Include="LOGDEF.H" />
+    <ClInclude Include="LOGDEF_AB.H" />
+    <ClInclude Include="LOGDEPDEF.H" />
+    <ClInclude Include="LOGEFTDEF.H" />
+    <ClInclude Include="LOGHDRDEF.H" />
+    <ClInclude Include="LOGOTHDEF.H" />
+    <ClInclude Include="LOGRDCDEF.H" />
+    <ClInclude Include="LOGSBCDEF.H" />
+    <ClInclude Include="lotdef.h" />
+    <ClInclude Include="main.h" />
+    <ClInclude Include="MsgTranslator.h" />
+    <ClInclude Include="O_MAILDEF.H" />
+    <ClInclude Include="PoolType.h" />
+    <ClInclude Include="rdsdef.h" />
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="sbdef.h" />
+    <ClInclude Include="SBLOGATDEF.H" />
+    <ClInclude Include="SBLOGDEF.H" />
+    <ClInclude Include="SimpleSbcDef.h" />
+    <ClInclude Include="StdAfx.h" />
+    <ClInclude Include="Storage.h" />
+    <ClInclude Include="TBAccount.h" />
+    <ClInclude Include="TextDB.h" />
+    <ClInclude Include="udtypedef.h" />
+    <ClInclude Include="WCMSGDEF.H" />
+    <ClInclude Include="xxbetdef.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ABAcctAccess.cpp" />
+    <ClCompile Include="ABAcctClose.cpp" />
+    <ClCompile Include="ABAcctDetail.cpp" />
+    <ClCompile Include="ABAcctDetailNew.cpp" />
+    <ClCompile Include="ABAcctOpen.cpp" />
+    <ClCompile Include="ABAcctOpenNew.cpp" />
+    <ClCompile Include="ABAcctRelease.cpp" />
+    <ClCompile Include="ABBatchDep.cpp" />
+    <ClCompile Include="ABCallTransfer.cpp" />
+    <ClCompile Include="ABCancel.cpp" />
+    <ClCompile Include="ABCardReplace.cpp" />
+    <ClCompile Include="ABCitCancel.cpp" />
+    <ClCompile Include="ABCitIssue.cpp" />
+    <ClCompile Include="ABCitReplace.cpp" />
+    <ClCompile Include="ABCscBalance.cpp" />
+    <ClCompile Include="ABCscIssue.cpp" />
+    <ClCompile Include="ABCscReplace.cpp" />
+    <ClCompile Include="ABCscReturn.cpp" />
+    <ClCompile Include="ABDeposit.cpp" />
+    <ClCompile Include="ABDrCrAdjust.cpp" />
+    <ClCompile Include="ABEftAccAct.cpp" />
+    <ClCompile Include="ABEftAcctBal.cpp" />
+    <ClCompile Include="ABEftCvIssue.cpp" />
+    <ClCompile Include="ABEftErt.cpp" />
+    <ClCompile Include="ABEftMisc.cpp" />
+    <ClCompile Include="ABEodCanLotSI.cpp" />
+    <ClCompile Include="ABEodCrAdj.cpp" />
+    <ClCompile Include="ABEodDivFor.cpp" />
+    <ClCompile Include="ABEodLotDiv.cpp" />
+    <ClCompile Include="ABEodRaceDiv.cpp" />
+    <ClCompile Include="ABEodSBDiv.cpp" />
+    <ClCompile Include="ABIssueCard.cpp" />
+    <ClCompile Include="ABLogger.cpp" />
+    <ClCompile Include="ABLottery.cpp" />
+    <ClCompile Include="ABMeetingAbandon.cpp" />
+    <ClCompile Include="ABMsgTranslator.cpp" />
+    <ClCompile Include="ABPolBg.cpp" />
+    <ClCompile Include="ABPolDrCrAdj.cpp" />
+    <ClCompile Include="ABPolLotterySI.cpp" />
+    <ClCompile Include="ABPolLoyalty.cpp" />
+    <ClCompile Include="ABPolWtwSI.cpp" />
+    <ClCompile Include="ABPoolRefund.cpp" />
+    <ClCompile Include="ABPoolStartPay.cpp" />
+    <ClCompile Include="ABRace.cpp" />
+    <ClCompile Include="ABRecall.cpp" />
+    <ClCompile Include="ABReturnCard.cpp" />
+    <ClCompile Include="ABRevCanDep.cpp" />
+    <ClCompile Include="ABRevDeposit.cpp" />
+    <ClCompile Include="ABSBBet.cpp" />
+    <ClCompile Include="ABSbcPoolDef.cpp" />
+    <ClCompile Include="ABSBSelBitmap.cpp" />
+    <ClCompile Include="ABSignOff.cpp" />
+    <ClCompile Include="ABSignOn.cpp" />
+    <ClCompile Include="ABSmsCharge.cpp" />
+    <ClCompile Include="ABStatCharge.cpp" />
+    <ClCompile Include="ABSystem.cpp" />
+    <ClCompile Include="ABSystemClose.cpp" />
+    <ClCompile Include="ABTerminateBet.cpp" />
+    <ClCompile Include="ABTextDB.Cpp" />
+    <ClCompile Include="ABTxnEnquiry.cpp" />
+    <ClCompile Include="ABWithDraw.cpp" />
+    <ClCompile Include="DeSelMap.cpp" />
+    <ClCompile Include="DllExport.cpp" />
+    <ClCompile Include="ExtractMgr.cpp" />
+    <ClCompile Include="JCLogger.cpp" />
+    <ClCompile Include="JCSystem.cpp" />
+    <ClCompile Include="MsgTranslator.cpp" />
+    <ClCompile Include="StdAfx.cpp" />
+    <ClCompile Include="Storage.cpp" />
+    <ClCompile Include="TBAccount.Cpp" />
+    <ClCompile Include="TextDB.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Resource.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="CopyToAppSetup.bat" />
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{58FBFA2D-A104-4DEF-9FE9-D5929283965F}</ProjectGuid>
+    <RootNamespace>oltp_ab</RootNamespace>
+    <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
+    <SccProjectName>SAK</SccProjectName>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v140</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v140</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v140</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v140</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <PostBuildEventUseInBuild>true</PostBuildEventUseInBuild>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>false</SDLCheck>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;_USRDLL;OLTP_AB_EXPORTS;_USE_32BIT_TIME_T;_CRT_SECURE_NO_WARNINGS;_CRT_NONSTDC_NO_DEPRECATE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>false</SDLCheck>
+      <PreprocessorDefinitions>NDEBUG;_WINDOWS;_USRDLL;OLTP_CB_EXPORTS;_CRT_SECURE_NO_WARNINGS;_CRT_NONSTDC_NO_DEPRECATE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ExceptionHandling>Async</ExceptionHandling>
+    </ClCompile>
+    <PostBuildEvent>
+      <Command>CopyToAppSetup.bat $(SolutionDir)$(Platform)\$(Configuration) $(ProjectName)</Command>
+    </PostBuildEvent>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>false</SDLCheck>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;_USRDLL;OLTP_AB_EXPORTS;_USE_32BIT_TIME_T;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <PrecompiledHeader />
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+    </ClCompile>
+    <Link>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <SubSystem>Windows</SubSystem>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>false</SDLCheck>
+      <PreprocessorDefinitions>_CRT_SECURE_NO_WARNINGS;_CRT_NONSTDC_NO_DEPRECATE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ExceptionHandling>Async</ExceptionHandling>
+    </ClCompile>
+    <Link>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+    <PostBuildEvent>
+      <Command>CopyToAppSetup.bat $(SolutionDir)$(Platform)\$(Configuration) $(ProjectName)</Command>
+    </PostBuildEvent>
+    <PreBuildEvent>
+      <Command>
+      </Command>
+    </PreBuildEvent>
+  </ItemDefinitionGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

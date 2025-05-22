@@ -1,0 +1,3 @@
+Time[2024-10-31 18:17:01,490]  Level[INFO] total messages to be decoded:1
+Time[2024-10-31 18:17:01,492]  Level[DEBUG] Payload header:18@|@20241009@|@1580455139@|@0@|@0@|@
+Time[2024-10-31 18:17:01,493]  Level[DEBUG] system id:18; activity id:1580455139
