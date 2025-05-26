@@ -1,0 +1,147 @@
+﻿  TextDB.cpp
+  TBAccount.Cpp
+  Storage.cpp
+c:\work\edap\decoder\oltp_ab\storage.cpp(132): warning C4302: 'type cast': truncation from 'char *' to 'char'
+c:\work\edap\decoder\oltp_ab\storage.cpp(134): warning C4302: 'type cast': truncation from 'char *' to 'char'
+  StdAfx.cpp
+  MsgTranslator.cpp
+c:\work\edap\decoder\oltp_ab\rdsdef.h(69): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+c:\work\edap\decoder\oltp_ab\logrdcdef.h(69): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+c:\work\edap\decoder\oltp_ab\logdef.h(31): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+c:\work\edap\decoder\oltp_ab\logdef.h(32): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+c:\work\edap\decoder\oltp_ab\msgtranslator.cpp(27): warning C4312: 'type cast': conversion from 'const int' to 'char *' of greater size
+  JCSystem.cpp
+  JCLogger.cpp
+c:\work\edap\decoder\oltp_ab\rdsdef.h(69): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+c:\work\edap\decoder\oltp_ab\logrdcdef.h(69): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+c:\work\edap\decoder\oltp_ab\logdef.h(31): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+c:\work\edap\decoder\oltp_ab\logdef.h(32): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+c:\work\edap\decoder\oltp_ab\logdef_ab.h(71): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+c:\work\edap\decoder\oltp_ab\logdef_ab.h(72): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+  ExtractMgr.cpp
+c:\work\edap\decoder\oltp_ab\rdsdef.h(69): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+c:\work\edap\decoder\oltp_ab\logrdcdef.h(69): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+c:\work\edap\decoder\oltp_ab\logdef_ab.h(66): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+c:\work\edap\decoder\oltp_ab\logdef_ab.h(68): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+c:\work\edap\decoder\oltp_ab\logdef_ab.h(71): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+c:\work\edap\decoder\oltp_ab\logdef_ab.h(72): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+c:\work\edap\decoder\oltp_ab\extractmgr.cpp(22): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\work\edap\decoder\oltp_ab\extractmgr.cpp(347): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\work\edap\decoder\oltp_ab\extractmgr.cpp(447): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\work\edap\decoder\oltp_ab\extractmgr.cpp(236): warning C4477: 'sprintf' : format string '%d' requires an argument of type 'int', but variadic argument 4 has type 'std::size_t'
+  c:\work\edap\decoder\oltp_ab\extractmgr.cpp(236): note: consider using '%zd' in the format string
+c:\work\edap\decoder\oltp_ab\extractmgr.cpp(236): warning C4477: 'sprintf' : format string '%d' requires an argument of type 'int', but variadic argument 5 has type 'std::size_t'
+  c:\work\edap\decoder\oltp_ab\extractmgr.cpp(236): note: consider using '%zd' in the format string
+c:\work\edap\decoder\oltp_ab\extractmgr.cpp(637): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\work\edap\decoder\oltp_ab\extractmgr.cpp(695): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\work\edap\decoder\oltp_ab\extractmgr.cpp(740): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  DllExport.cpp
+c:\work\edap\decoder\oltp_ab\rdsdef.h(69): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+c:\work\edap\decoder\oltp_ab\logrdcdef.h(69): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+c:\work\edap\decoder\oltp_ab\logdef_ab.h(66): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+c:\work\edap\decoder\oltp_ab\logdef_ab.h(68): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+c:\work\edap\decoder\oltp_ab\logdef_ab.h(71): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+c:\work\edap\decoder\oltp_ab\logdef_ab.h(72): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+  DeSelMap.cpp
+c:\work\edap\decoder\oltp_ab\rdsdef.h(69): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+c:\work\edap\decoder\oltp_ab\deselmap.h(15): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+c:\work\edap\decoder\oltp_ab\aadef.h(202): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+c:\work\edap\decoder\oltp_ab\logdef_ab.h(63): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+c:\work\edap\decoder\oltp_ab\logrdcdef.h(70): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+c:\work\edap\decoder\oltp_ab\logdef_ab.h(66): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+c:\work\edap\decoder\oltp_ab\logdef_ab.h(68): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+c:\work\edap\decoder\oltp_ab\logdef_ab.h(71): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+c:\work\edap\decoder\oltp_ab\logdef_ab.h(72): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+c:\work\edap\decoder\oltp_ab\deselmap.h(17): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+c:\work\edap\decoder\oltp_ab\deselmap.cpp(510): warning C4267: '+=': conversion from 'size_t' to 'unsigned short', possible loss of data
+c:\work\edap\decoder\oltp_ab\deselmap.cpp(1071): warning C4267: '+=': conversion from 'size_t' to 'unsigned short', possible loss of data
+c:\work\edap\decoder\oltp_ab\deselmap.cpp(1112): warning C4267: '+=': conversion from 'size_t' to 'unsigned short', possible loss of data
+c:\work\edap\decoder\oltp_ab\deselmap.cpp(1408): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+c:\work\edap\decoder\oltp_ab\deselmap.cpp(1445): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  ABSystem.cpp
+c:\work\edap\decoder\oltp_ab\rdsdef.h(69): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+c:\work\edap\decoder\oltp_ab\deselmap.h(15): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+c:\work\edap\decoder\oltp_ab\aadef.h(202): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+c:\work\edap\decoder\oltp_ab\logdef_ab.h(63): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+c:\work\edap\decoder\oltp_ab\logrdcdef.h(70): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+c:\work\edap\decoder\oltp_ab\logdef_ab.h(66): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+c:\work\edap\decoder\oltp_ab\logdef_ab.h(68): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+c:\work\edap\decoder\oltp_ab\logdef_ab.h(71): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+c:\work\edap\decoder\oltp_ab\logdef_ab.h(72): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+c:\work\edap\decoder\oltp_ab\deselmap.h(17): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+c:\work\edap\decoder\oltp_ab\absystem.cpp(51): warning C4101: 'lSbcMsgType': unreferenced local variable
+c:\work\edap\decoder\oltp_ab\absystem.cpp(50): warning C4101: 'lWcMsgType': unreferenced local variable
+  ABRace.cpp
+c:\work\edap\decoder\oltp_ab\rdsdef.h(69): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+c:\work\edap\decoder\oltp_ab\logrdcdef.h(69): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+c:\work\edap\decoder\oltp_ab\logdef_ab.h(66): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+c:\work\edap\decoder\oltp_ab\logdef_ab.h(68): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+c:\work\edap\decoder\oltp_ab\logdef_ab.h(71): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+c:\work\edap\decoder\oltp_ab\logdef_ab.h(72): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+c:\work\edap\decoder\oltp_ab\abrace.cpp(38): warning C4244: '=': conversion from 'unsigned __int64' to 'int', possible loss of data
+c:\work\edap\decoder\oltp_ab\abrace.cpp(50): warning C4244: 'initializing': conversion from '__int64' to 'double', possible loss of data
+c:\work\edap\decoder\oltp_ab\abrace.cpp(55): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+c:\work\edap\decoder\oltp_ab\abrace.cpp(258): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\work\edap\decoder\oltp_ab\abrace.cpp(287): warning C4477: 'sprintf' : format string '%04X' requires an argument of type 'unsigned int', but variadic argument 1 has type 'unsigned __int64'
+  c:\work\edap\decoder\oltp_ab\abrace.cpp(287): note: consider using '%llX' in the format string
+  c:\work\edap\decoder\oltp_ab\abrace.cpp(287): note: consider using '%IX' in the format string
+  c:\work\edap\decoder\oltp_ab\abrace.cpp(287): note: consider using '%I64X' in the format string
+c:\work\edap\decoder\oltp_ab\abrace.cpp(308): warning C4477: 'sprintf' : format string '%04X' requires an argument of type 'unsigned int', but variadic argument 1 has type 'unsigned __int64'
+  c:\work\edap\decoder\oltp_ab\abrace.cpp(308): note: consider using '%llX' in the format string
+  c:\work\edap\decoder\oltp_ab\abrace.cpp(308): note: consider using '%IX' in the format string
+  c:\work\edap\decoder\oltp_ab\abrace.cpp(308): note: consider using '%I64X' in the format string
+c:\work\edap\decoder\oltp_ab\abrace.cpp(315): warning C4477: 'sprintf' : format string '%04X' requires an argument of type 'unsigned int', but variadic argument 1 has type 'unsigned __int64'
+  c:\work\edap\decoder\oltp_ab\abrace.cpp(315): note: consider using '%llX' in the format string
+  c:\work\edap\decoder\oltp_ab\abrace.cpp(315): note: consider using '%IX' in the format string
+  c:\work\edap\decoder\oltp_ab\abrace.cpp(315): note: consider using '%I64X' in the format string
+  ABMsgTranslator.cpp
+c:\work\edap\decoder\oltp_ab\rdsdef.h(69): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+c:\work\edap\decoder\oltp_ab\logrdcdef.h(69): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+c:\work\edap\decoder\oltp_ab\logdef.h(31): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+c:\work\edap\decoder\oltp_ab\logdef.h(32): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+c:\work\edap\decoder\oltp_ab\logdef_ab.h(71): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+c:\work\edap\decoder\oltp_ab\logdef_ab.h(72): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+c:\work\edap\decoder\oltp_ab\abmsgtranslator.cpp(207): warning C4244: '=': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\work\edap\decoder\oltp_ab\abmsgtranslator.cpp(518): warning C4477: 'sprintf' : format string '%c' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+c:\work\edap\decoder\oltp_ab\abmsgtranslator.cpp(518): warning C4313: 'sprintf': '%c' in format string conflicts with argument 1 of type 'char *'
+c:\work\edap\decoder\oltp_ab\abmsgtranslator.cpp(599): warning C4244: '=': conversion from '__int64' to 'unsigned int', possible loss of data
+  ABMeetingAbandon.cpp
+c:\work\edap\decoder\oltp_ab\rdsdef.h(69): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+c:\work\edap\decoder\oltp_ab\logrdcdef.h(69): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+c:\work\edap\decoder\oltp_ab\logdef_ab.h(66): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+c:\work\edap\decoder\oltp_ab\logdef_ab.h(68): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+c:\work\edap\decoder\oltp_ab\logdef_ab.h(71): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+c:\work\edap\decoder\oltp_ab\logdef_ab.h(72): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+c:\work\edap\decoder\oltp_ab\abmeetingabandon.cpp(20): warning C4101: 'm_sMeetDate': unreferenced local variable
+  ABLogger.cpp
+  ABCancel.cpp
+c:\work\edap\decoder\oltp_ab\rdsdef.h(69): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+c:\work\edap\decoder\oltp_ab\logrdcdef.h(69): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+c:\work\edap\decoder\oltp_ab\logdef_ab.h(66): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+c:\work\edap\decoder\oltp_ab\logdef_ab.h(68): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+c:\work\edap\decoder\oltp_ab\logdef_ab.h(71): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+c:\work\edap\decoder\oltp_ab\logdef_ab.h(72): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+c:\work\edap\decoder\oltp_ab\abcancel.cpp(180): warning C4101: 'm_date': unreferenced local variable
+  Generating Code...
+c:\work\edap\decoder\oltp_ab\absystem.cpp(348): warning C4172: returning address of local variable or temporary: bufMsg
+c:\work\edap\decoder\oltp_ab\msgtranslator.cpp(62): warning C4172: returning address of local variable or temporary: iRetVal
+     Creating library C:\Work\EDAP\DECODER\x64\Debug\oltp_ab.lib and object C:\Work\EDAP\DECODER\x64\Debug\oltp_ab.exp
+  oltp_ab.vcxproj -> C:\Work\EDAP\DECODER\x64\Debug\oltp_ab.dll
+  oltp_ab.vcxproj -> C:\Work\EDAP\DECODER\x64\Debug\oltp_ab.pdb (Partial PDB)
+  Current Folder is: C:\Work
+  EDABI Folder is       : C:\Work
+  "===================================================================="
+  TargetFile is           : C:\Work\EDAP\DECODER\x64\Debug
+  AppSetupDir is			 : "C:\Work\APP_Setup"
+  3rdLibraryDir is	     : "C:\Work\EDA Project\3rdpartylib\decoder"
+  DecodeLibraryDir is     : "C:\Work\EDA Project\DecodeLibrary"
+  "===================================================================="
+  copy /y "C:\Work\EDAP\DECODER\x64\Debug\oltp_ab.dll" "C:\Work\APP_Setup"
+          1 file(s) copied.
+  copy /y "C:\Work\EDAP\DECODER\x64\Debug\oltp_ab.dll" "C:\Work\EDA Project\3rdpartylib\decoder"
+  The system cannot find the path specified.
+          0 file(s) copied.
+  copy /y "C:\Work\EDAP\DECODER\x64\Debug\oltp_ab.dll" "C:\Work\EDA Project\DecodeLibrary"
+  The system cannot find the path specified.
+          0 file(s) copied.
+  END 
